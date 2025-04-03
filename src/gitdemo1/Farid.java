@@ -7,7 +7,7 @@ public class Farid {
 		System.out.println("Day2");
 		System.out.println("Day2 commit2");
 		System.out.println("Day2 commit2");
-		System.out.println("Day2 commit2");
+
 	}
 
 }
